@@ -1,4 +1,4 @@
-# 2023『笃学不倦』 <Badge text="2023"/>
+# 2023『笃学不倦』<Badge text="2023"/>
 
 ## 目标规划
 
@@ -11,7 +11,7 @@
 - 学习《计算机组成原理》、《操作系统》这两门计算机基础课
 - 基于 `React18` + `SpringBoot17` 的文件管理系统
 - 基于 `Vue3` + `Koa2` 的文件管理系统
-- 宅家自习室应用（`Electron` 或 `tauri`，看情况）
+- 开发应用：『学习定时器』（Study Timer）（`Electron` 或 `tauri`，看情况）
 - 个人博客系统（看情况）
 :::
 
@@ -39,7 +39,7 @@
 ```sh{1}
 ## 学习 VuePress（已完成 ✅） ##
 
-# 能够利用 VuePress 1.x 构建学习记录文档
+# 能够利用 VuePress 1.x 构建『罗缕纪存』个人学习记录文档
 # 学会使用自定义配置文件，将 VuePress 部署到 GitHub page
 # 能够利用 VuePress 2.x 构建技术题库文档
 # 学会使用 CI 工具（GitHub Actions）完成 VuePress 自动部署到 GitHub page
@@ -70,7 +70,7 @@
 ```
 
 ```sh{1}
-## 宅家自习室应用（Electron 或 tauri）（未开始） ##
+## 开发应用：『学习定时器』（Study Timer）（Electron 或 tauri）（未开始） ##
 ```
 
 ```sh{1}

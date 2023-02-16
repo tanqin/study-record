@@ -6,7 +6,7 @@
 
 - 深入学习 `webpack5`（已完成 ✅）
 - 学习 chrome 插件开发（已完成 ✅）
-- 学习 `VuePress`（已完成 ✅）
+- 学习 `VuePress1.x` 和 `VuePress2.x`（已完成 ✅）
 - 基于 `umi3.x` + `SpringBoot2.x` 的仓库管理系统（进行中 ⏳️）
 - `Python` 前七章（即总课程的一半）的课程学习（进行中 ⏳️）
 - 学习《计算机组成原理》、《操作系统》这两门计算机基础课（进行中 ⏳️）
@@ -37,7 +37,7 @@
 ```
 
 ```sh{1}
-## 学习 VuePress（已完成 ✅） ##
+## 学习 VuePress1.x 和 VuePress2.x（已完成 ✅） ##
 
 # 能够利用 VuePress 1.x 构建『罗缕纪存』个人学习记录文档
 # 学会使用自定义配置文件，将 VuePress 部署到 GitHub page

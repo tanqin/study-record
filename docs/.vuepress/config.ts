@@ -21,7 +21,10 @@ export default defineConfig({
       {
         text: '长年累月',
         ariaLabel: 'over the years',
-        items: [{ text: `${thisYear}`, link: `/${thisYear}/` }]
+        items: [
+          { text: `${thisYear}`, link: `/${thisYear}/` },
+          { text: '2022', link: '/2022/' }
+        ]
       }
     ]
   }

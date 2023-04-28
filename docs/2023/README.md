@@ -5,6 +5,7 @@
 ::: tip 💬💬💬
 
 - 深入学习 `webpack5`（已完成 ✅）
+- 看完 `Vite4` 官方文档（已完成 ✅）
 - 学习 chrome 插件开发（已完成 ✅）
 - 学习 `VuePress1.x` 和 `VuePress2.x`（已完成 ✅）
 - 基于 `umi3.x` + `SpringBoot2.x` 的仓库管理系统（进行中 ⏳️）
@@ -24,6 +25,12 @@
 # 能够基于 webpack 进行优化开发体验、提升构建速度、减少代码体积和优化运行性能；
 # 能够使用 webpack 搭建 vue、react 脚手架；
 # 了解 webpack 的 loader 和 plugin 功能机制，能够自定义 loader 和 plugin。
+```
+
+```sh{1}
+## 看完 Vite4 官方文档（已完成 ✅） ##
+
+# 了解 Vite 相关配置；
 ```
 
 ```sh{1}
